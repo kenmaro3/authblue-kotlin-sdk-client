@@ -27,10 +27,10 @@ import com.authblue.authbluekotlinsdk.View.MNCReadInfoScreen
 import com.authblue.authbluesdkclient.View.Home
 
 class MainActivity : FragmentActivity() {
-    private val userEmail = ""
-    private val userName = ""
-    private val authblueClientId = ""
-    private val authblueClientName = ""
+    private val userEmail = "info@authblue.jp"
+    private val userName = "kenmaro"
+    private val authblueClientId = "Wbr6uCMSaK89FjjUdIaEKaZM"
+    private val authblueClientName = "チュートリアル同意クライアント"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

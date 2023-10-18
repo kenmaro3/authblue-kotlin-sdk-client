@@ -75,5 +75,5 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.2")
 
     // authblue-sdk
-    implementation("com.github.kenmaro3:authblue-kotlin-sdk:0.0.3")
+    implementation("com.github.kenmaro3:authblue-kotlin-sdk:0.0.4")
 }
